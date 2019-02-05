@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+	"north": "atomcore:blocks/rc_front",
+	"south": "atomcore:blocks/rc_front",
+	"east": "atomcore:blocks/rc_front",
+	"west": "atomcore:blocks/rc_front",
+	"up": "atomcore:blocks/rc_top",
+	"down": "atomcore:blocks/rc_side"
+  }
+}

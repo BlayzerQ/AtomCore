@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "atomcore:blockminer"
+  },
+  "pattern": [
+    "ses",
+    "rbr",
+    "ses"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "e": {
+      "item": "minecraft:ender_pearl"
+    },
+    "s": {
+      "item": "minecraft:prismarine_shard"
+    }
+  }
+}

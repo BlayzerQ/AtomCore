@@ -1,0 +1,6 @@
+{
+  "parent": "atomcore:normalblock",
+  "textures": {
+    "all": "atomcore:blocks/generator"
+  }
+}

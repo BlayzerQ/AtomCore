@@ -1,0 +1,26 @@
+#blocks
+tile.atomcore.blockminer.name=Region Controller
+tile.atomcore.generator.name=Generator
+
+message.protectprice=Price: %1$s RF/H
+message.energy=Energy: %1$s/%2$s RF
+message.blockpos=This Block Pos: %1$s, %2$s, %3$s
+message.owner=Owner: %1$s
+message.rgname=Region: %1$s
+message.statusOn=Status: §2Protection is active
+message.statusOff=Status: §4Protection is not active
+message.rgNotFound=Region not found on this location, this block will no work!
+message.rgAlredyExits=On this region alredy exist similar block, he will no work!
+message.rgNotSelected=You must first make two points with coordinate tool
+
+message.noenergy=Not enough energy. Energy: %1$s RF
+message.cooldown=Time to next usage: %1$s secs
+message.protectisactive=Protection of your region is currently active, reactivation is not required
+
+message.disableprotect=§4The protection of your region is not active. Generate the necessary amount of energy to renew
+message.enableprotect=§2The protection of your region is again activated, do not forget to generate the currency in the right amount
+
+message.info=Shift+LMB for reactivate region
+
+settings.rgvisual=Region Visualization
+button.reboot=Reboot

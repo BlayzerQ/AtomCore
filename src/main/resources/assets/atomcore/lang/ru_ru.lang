@@ -1,0 +1,26 @@
+#blocks
+tile.atomcore.blockminer.name=Контроллер Региона
+tile.atomcore.generator.name=Генератор
+
+message.protectprice=Обеспечение: %1$s RF/Ч
+message.energy=Энергия: %1$s/%2$s RF
+message.blockpos=Координаты блока: %1$s, %2$s, %3$s
+message.owner=Владелец: %1$s
+message.rgname=Регион: %1$s
+message.statusOn=Статус: §2Защита активна
+message.statusOff=Статус: §4Защита не активна
+message.rgNotFound=Регион не найден на текущих координатах, этот блок работать не будет!
+message.rgAlredyExits=В данном регионе уже установлен похожий блок, этот блок работать не будет!
+message.rgNotSelected=Сначала вам нужно выделить две точки региона с помощью координатного инструмента
+
+message.noenergy=Не хватает энергии. Энергия: %1$s RF
+message.cooldown=Времени до следующего использования: %1$s сек
+message.protectisactive=Защита вашего региона в данный момент активна, реактивация не требуется
+
+message.disableprotect=§4Защита вашего региона не активна. Сгенерируйте необходимое количество энергии для возобновления
+message.enableprotect=§2Защита вашего региона снова активирована, не забывайте генерировать валюту в нужном количестве
+
+message.info=Шифт+ЛКМ для реактивации региона
+
+settings.rgvisual=Отображение регионов
+button.reboot=Перезапуск

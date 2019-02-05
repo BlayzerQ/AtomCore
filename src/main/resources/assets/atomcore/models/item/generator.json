@@ -1,0 +1,6 @@
+{
+  "parent": "atomcore:item/itemblock",
+  "textures": {
+    "all": "atomcore:blocks/generator"
+  }
+}
